@@ -96,7 +96,7 @@ Orignal  | Re-construct by  plot3.R
 
 ### Plot 4
 
-Orignal  | Re-construct by  plot3.R
+Orignal  | Re-construct by  plot4.R
 ---------|-----------
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) | ![plot Re-construct by plot2.R](plot4.png)
 
